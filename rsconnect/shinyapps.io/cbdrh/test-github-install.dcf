@@ -1,0 +1,12 @@
+name: test-github-install
+title: test-github-install
+username:
+account: cbdrh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2329998
+bundleId: 3170128
+url: https://cbdrh.shinyapps.io/test-github-install/
+when: 1589975291.28564
+asMultiple: FALSE
+asStatic: FALSE
